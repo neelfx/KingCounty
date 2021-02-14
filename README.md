@@ -85,6 +85,7 @@ I settled for the dataset and model that covered 94% of homes up to the value of
 
 - Further analysis on more niche houses that normally would be considered outliers.
 
+- Deploy model for potential hosts to use.
 
 
 ```python
